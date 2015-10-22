@@ -1,6 +1,9 @@
 <?php
 
-/**
+/*
+ * author: Archie Gunasekara
+ * date: 2015
+ * 
  * This script gets a copy of users with a attribute conifugred in the configuration called ATTRIBUTE_1
  * Then copies the ATTRIBUTE_1 attribute value to configured attribute called ATTRIBUTE_2
  * Please modify the configuration below to meet your needs
