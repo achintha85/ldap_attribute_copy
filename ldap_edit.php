@@ -1,7 +1,7 @@
 <?php
 
 /*
- * author: Archie Gunasekara
+ * author: Achintha Gunasekara
  * date: 2015
  * 
  * This script gets a copy of users with a attribute conifugred in the configuration called ATTRIBUTE_1
