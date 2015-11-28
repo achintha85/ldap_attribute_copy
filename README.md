@@ -20,5 +20,5 @@ $attribute_to_copy_to = 'ATTRIBUTE_2';
 Run the script from the commandline.
 
 ```bash
-> php ldap_attribute_copy.php
+$> php ldap_attribute_copy.php
 ```
